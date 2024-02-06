@@ -1,0 +1,9 @@
+ 
+
+
+
+ 
+
+public ip 116.68.74.215
+mac address  00-45-E2-ED-2F-B5
+private ip  192.168.0.5
